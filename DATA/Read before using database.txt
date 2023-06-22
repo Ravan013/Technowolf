@@ -1,0 +1,1 @@
+Please extract backup files or use the external script filw for generating database on MSSSQL server on Management studio
